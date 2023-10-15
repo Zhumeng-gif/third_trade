@@ -1,0 +1,35 @@
+year           年份
+importer       进口国
+exporter       出口国
+smoothtotrade  两国贸易总额（包括进出口）
+totrade        smoothtotrade的自然对数
+GDP1           importer的GDP
+GDP2           exporter的GDP
+gdp_high       importer和exporter中GDP高值
+gdp_low        importer和exporter中GDP低值
+aveGDP_high    importer和exporter人均GDP的高值
+aveGDP_low     importer和exporter人均GDP的低值
+pop_high       importer和exporter人口高值
+pop_low        importer和exporter人口低值
+polity_high    importer和exporter政体高值
+polity_low     importer和exporter政体高值
+mapow          是否为大国（联合国安理会五常）
+caratio        importer和exporter的实力比
+alliance       是否结盟
+conflict       是否发生过冲突（3代表展示武力，4代表使用武力，5代表发生战争）
+（3、4、5）
+conflict       是否发生过冲突（4、5）
+contiguity     是否接壤
+cadist         首都距离
+tri_links      第三方贸易
+maxflow        最大贸易流量
+oneal          贸易相互依赖（按照oneal的公式测量）
+dorussen       贸易相互依赖（按照dorussen的公式测量）
+cluster        聚类结果（K=5）
+
+
+
+
+
+
+
